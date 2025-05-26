@@ -1,0 +1,29 @@
+body {
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  background-color: #111;
+  color: #00ffcc;
+  margin: 0;
+  padding: 0;
+}
+
+#game {
+  margin-top: 50px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  margin: 10px;
+  border: none;
+  border-radius: 8px;
+  background-color: #222;
+  color: #00ffcc;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+button:hover {
+  background-color: #00ffcc;
+  color: #000;
+}
